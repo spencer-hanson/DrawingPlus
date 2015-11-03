@@ -1,5 +1,5 @@
 #DrawingPlus
-<img src="media/ScreenShot.png" width="600" height="500" />
+<img src="media/ScreenShot.png" width="800" height="498" />
 <br />
 ###Description:
 
